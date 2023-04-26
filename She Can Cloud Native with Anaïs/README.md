@@ -1,7 +1,7 @@
 # Cloud Native Kubernetes 101: What I Wish I Knew as A Developer
 
 - Delivered on: April 26, 2023
-- YouTube Link: https://www.youtube.com/live/3mNxtNqGk78?feature=share
+- YouTube Link: https://youtu.be/3mNxtNqGk78
 - Resources shared in slides:
 
 Linux/Bash/DevOps for beginners:
