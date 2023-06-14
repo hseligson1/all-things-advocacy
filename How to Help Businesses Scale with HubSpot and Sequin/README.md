@@ -1,4 +1,4 @@
-# How to Help Businesses Scale with HubSpot: A Developer’s Perspective
+# How to Help Businesses Scale with HubSpot: A Developer’s Perspective with Sequin Co-Founders Eric Goldman and Anthony Accomazzo
 
 - Delivered on: June 14, 2023
 - YouTube Link: [https://youtu.be/3mNxtNqGk78](https://www.youtube.com/watch?v=BgJ8oYo-M4Q)
