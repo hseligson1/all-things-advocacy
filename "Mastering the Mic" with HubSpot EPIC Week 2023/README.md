@@ -4,7 +4,7 @@
 - YouTube Link: TBD
 - Resources shared in slides:
 
-Public Speaking Survival Guide:
+Relevant Guides:
 - **[Public Speaking Survival Guide (PDF)](https://www.canva.com/design/DAFKRCnD4No/g3khMTufogc0QFWCFxblEQ/view?utm_content=DAFKRCnD4No&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)**
 - **[Workplace Courage: Fostering Bravery in Tech](https://product.hubspot.com/blog/workplace-courage)**
 
