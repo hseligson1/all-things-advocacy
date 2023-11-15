@@ -1,0 +1,11 @@
+# Mastering the Mic: Confidence in Workplace Communication
+
+- Delivered on: November 16, 2023
+- YouTube Link: TBD
+- Resources shared in slides:
+
+Public Speaking Survival Guide:
+- **[Public Speaking Survival Guide (PDF)](https://www.canva.com/design/DAFKRCnD4No/g3khMTufogc0QFWCFxblEQ/view?utm_content=DAFKRCnD4No&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)**
+
+Embarassing Live Demo Failure:
+- **[GitOps Guide to the Galaxy (Ep 34) | Autopilot with Codefresh](https://www.youtube.com/live/APWI1SolwXM?feature=shared)**
