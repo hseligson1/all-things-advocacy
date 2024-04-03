@@ -6,9 +6,11 @@
 
 Relevant Links:
 - **[HubSpot Public API Workspace](https://www.postman.com/hubspot/workspace/hubspot-public-api-workspace)**
-- **[HubSpot Publis API Documentation](https://developers.hubspot.com/docs/api/overview)** 
-- **[HubSpot Developer Blog](https://developers.hubspot.com/blog)**
+- **[HubSpot Publis API Documentation](https://developers.hubspot.com/docs/api/overview)**
 - **[HubSpot Developer Tools](https://developers.hubspot.com/developer-tools)**
+- **[HubSpot Developer Blog](https://developers.hubspot.com/blog)**
+- **[HubSpot Developer YouTube](https://www.youtube.com/c/HubSpotDevelopers)**
+
 
 
 
